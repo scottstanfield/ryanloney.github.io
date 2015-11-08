@@ -1,14 +1,7 @@
-The Markdown Resume
-===================
+Ryan Loney Personal Site
+========================
 
-Instructions:
+See the site at http://ryanloney.github.io
 
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
-    make
+Soon at http://loney.io
 
-Requirements:
-
- * ConTeXt
- * pandoc
