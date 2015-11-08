@@ -1,122 +1,133 @@
-Ryan Loney
-============
+Ryan A. Loney
+=============
 
 ----
 
-> Network Engineer
-> OSI 7 Layer Expertise
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Specialties: Networking, VOIP  
+>  Doctor in Computer Science and Mathematics
 
 ----
+
+Corporate Experience
+--------------------
+
+Since 2014
+:   *Director of Advanced IP Services for [Valley
+Internet](http://valleyinternet.com/)*
+    (Napa County, California).
+
+    Data mining on various sources to forecast passenger demands over
+    airline networks.
+
+2009-2012
+:   *PhD in Operations Research with
+    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
+    Antipolis, France).
+
+    Researched how to assign aircraft on an airline network in the most
+    efficient way. I authored several projects, including a C++ solver,
+    a Python suite of 20+ command line tools, and Hadoop data mining
+    scripts. I also worked as a teaching assistant at the university,
+    further improving my communication and public speaking skills.
+
+2008 (3 months)
+:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
+    (Clermont Ferrand, France).
+
+    Co-authored a C++ library for optimizing the revenue of a metal
+    factory. This work was published in the corporate journal of the
+    company.
+
+2007 (3 months)
+:   *Internship at [GE
+    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
+    France).
+
+    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+
+Selected Open Source Contributions
+----------------------------------
+
+Python
+:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
+    linear programming Python library. Author of small tools, like
+    [michel](https://github.com/chmduquesne/michel), a command line
+    program providing bidirectionnal synchronization of google tasks
+    with text files.
+
+C++
+:   Author of
+    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
+    Python binding to COIN-OSI that is now supported by
+    [pulp-or](http://code.google.com/p/pulp-or/).
+
+C
+:   Author of
+    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
+    set of proxy libraries targeting cplex, gurobi and xpress. I also
+    started writing
+    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
+    distributed FUSE file system based on git.
+
+Java
+:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
+    android application allowing phone control via gtalk. It had 10.000+
+    downloads, and was forked 50 times. It was then successfully handed
+    over to [other developers](http://code.google.com/p/gtalksms/).
+
+Misc
+:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
+    résumé](http://resume.github.com/?chmduquesne). My
+    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
+    top 2% of opensource developers.
+
+Linux
+:   My daily operating system: I [blog](http://blog.chmd.fr) about it
+    sometimes.
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2009-2012
+:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
+    (Grenoble, France).
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Title: Integration of Fleet Deployment and of Passenger Service in
+    Airline Schedule Management. Done at Amadeus, in the Operation
+    Research team led by [Semi
+    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
+    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
+    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
+    Defended in January 2013.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2005-2009
+:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
 
-    *Minor: Awesomeology*
+    Top French school of Applied Mathematics and Computer Science with
+    highly selective recruitment.
 
-Network Stack
--------------
+2002-2005
+:   *Preparatory classes in Lycée Thiers* (Marseille, France).
 
-VoIP
-:	Deployed 30 hosted SIP-based PBX servers for business, working with
-Comunigate Pro, Polycom, Flowroute, Cisco
+    Mathematics and Physics courses before a national competitive
+    examination to Grandes Écoles.
 
-SIP
-:	Advanced configuration and knowledge of major 
+Activities and interests
+------------------------
 
-TCP
-:	
+Hobbies
+:   I like travelling. I backpacked in 13 countries in Eastern Europe
+    and South East Asia.
 
-IP
-:	Subnetting and public/private IP allocation for DHCP pools and
-security.
+Sports
+:   Running, Cycling, Hiking. I also played rugby union for 7 years.
 
-UDP	
-: 
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Activities
+:   I was the president of the [grand
+    cercle](http://www.grandcercle.org), one of the largest French
+    campus student associations (5.000 members) during university.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <ryan@loney.io> • +1 (707) 200-1140 \
+>  1255 66th St., Emeryville, CA 94608
