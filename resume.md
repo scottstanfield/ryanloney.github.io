@@ -9,9 +9,14 @@ Education
 ---------
 
 2006-2010
-:   **BS, Environmental Policy Analysis & Planning**
+:   **BS, Environmental Policy Analysis & Planning**  
     University of California at Davis  
-    Emphasis in Energy Policy
+
+    Emphasis in Energy Policy  
+
+2015
+:   **Certified Network Associate for [MikroTik](http://routeros.com)**  
+    Covers OSI Layers 1-7
 
 
 Corporate Experience
@@ -63,26 +68,26 @@ Institute][3]**
     * Planned 35 fundraising events; worked with event surrogates and their staffs—including events with U.S. Senators, members of Congress, Vice President Joe Biden, and former President Clinton.
 
 2011
-:	**Political Assistant to [House Democratic Whip Steny
+:   **Political Assistant to [House Democratic Whip Steny
 Hoyer][5]**  
-	(Washington, D.C.)
+    (Washington, D.C.)
 
-	* Gained extensive experience with political strategy & operations related to Congressman Hoyer’s Leadership PAC. 
-	* Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
-	* Produced extensive briefing memos for Mr. Hoyer’s trips to over 30-targeted Congressional districts in 2011.
-	* Researched and tracked statistical, financial & polling data on all targeted House districts and redistricting.
-	* Tracked over $2.3 million dollars raised for candidates & party committees; managed all FEC compliance.
-	* Assisted Political Dir. in managing a $2.6 million budget; reviewed all disbursements with our compliance attorney.
+    * Gained extensive experience with political strategy & operations related to Congressman Hoyer’s Leadership PAC. 
+    * Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
+    * Produced extensive briefing memos for Mr. Hoyer’s trips to over 30-targeted Congressional districts in 2011.
+    * Researched and tracked statistical, financial & polling data on all targeted House districts and redistricting.
+    * Tracked over $2.3 million dollars raised for candidates & party committees; managed all FEC compliance.
+    * Assisted Political Dir. in managing a $2.6 million budget; reviewed all disbursements with our compliance attorney.
 
 2010
-:	**Deputy Finance Director to [Ami Bera for Congress
+:   **Deputy Finance Director to [Ami Bera for Congress
 CA-03][6]**
-	(Elk Grove, CA)
+    (Elk Grove, CA)
 
-	* Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
-	* Worked directly with the candidate and senior staff to implement an aggressive fundraising plan.
-	* Supervised 2 full-time assistants, researched & cultivated donors, helped develop all fundraising solicitations.
-	* Built and managed a database of over 4,000 individual donors $2.9 million raised in the 2010 cycle. 
+    * Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
+    * Worked directly with the candidate and senior staff to implement an aggressive fundraising plan.
+    * Supervised 2 full-time assistants, researched & cultivated donors, helped develop all fundraising solicitations.
+    * Built and managed a database of over 4,000 individual donors $2.9 million raised in the 2010 cycle. 
 
 
 Network Stack
@@ -99,21 +104,6 @@ Network Stack
 :   Subnetting and public/private IP allocation for DHCP pools and
 security
 
-
-Activities and interests
-------------------------
-
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
-
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
-
-Activities
-:   I was the president of the [grand
-    cercle][7], one of the largest French
-    campus student associations (5.000 members) during university.
 
 ----
 

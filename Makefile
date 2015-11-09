@@ -15,6 +15,7 @@ resume.html: style.css resume.md templates/boilerplate.html
 		-o _fragment.html resume.md
 	gsed -nf templates/ssi.sed templates/boilerplate.html | gsed 'N;N;s/\n//' | gsed -f - templates/boilerplate.html > resume.html
 	rm _fragment.html
+	cp resume.html index.html
 
 
 docx: resume.docx
