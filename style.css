@@ -17,6 +17,15 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
+/* ul { */
+/* 	text-indent: -3.2em; */
+/* 	list-style: none; */
+/* } */
+
+/* ul li:before { */
+/* 	content: "\0BB \020"; */
+/* } */
+
 /* Title of the resume */
 h1 {
     font-size: 55px;
