@@ -9,11 +9,12 @@ resume.pdf: resume.md
 	context resume.tex
 
 html: resume.html
-resume.html: style.css resume.md
-	pandoc --standalone -H style.css \
+resume.html: style.css resume.md templates/boilerplate.html
+	pandoc --smart  \
         --from markdown --to html \
-        -o resume.html resume.md
-	cp resume.html index.html
+		-o _fragment.html resume.md
+	gsed -nf templates/ssi.sed templates/boilerplate.html | gsed 'N;N;s/\n//' | gsed -f - templates/boilerplate.html > resume.html
+	rm _fragment.html
 
 
 docx: resume.docx
@@ -25,10 +26,4 @@ resume.rtf: resume.md
 	pandoc -s -S resume.md -o resume.rtf
 
 clean:
-	rm resume.html
-	rm resume.tex
-	rm resume.tuc
-	rm resume.log
-	rm resume.pdf
-	rm resume.docx
-	rm resume.rtf
+	@rm -f resume.html resume.tex *.tuc *.log *.pdf *.docx *.rtf _fragment.html

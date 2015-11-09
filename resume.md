@@ -1,116 +1,104 @@
 Ryan A. Loney
 =============
 
-----
-
->  Specialties: Networking, VOIP  
->  Doctor in Computer Science and Mathematics
+>   *Network Engineer with OSI 7 Layer Expertise*
 
 ----
-
-Corporate Experience
---------------------
-
-Since 2014
-:   *Director of Advanced IP Services for [Valley
-Internet](http://valleyinternet.com/)*
-    (Napa County, California).
-
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
-
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
-
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
-
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
-
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+2006-2010
+:   **BS, Environmental Policy Analysis & Planning**
+    University of California at Davis  
+    Emphasis in Energy Policy
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+Corporate Experience
+--------------------
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+Since 2005
+:   **Remote Technical Support for [Green Valley Tractor][1]**  
+    (Suisun Valley, California)
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+    * Managing phone and computer network, software and hardware
+    * Troubleshooting and support for clients and supplier software
+      providers
+    * Help with accounting reports, database management and data
+      analysis
+    * Configure Google AdWords advertising program and update company
+      website
+    * Setup AWS instance to run Windows 2012 on EC2
+    * IP survallience cameras 
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+
+Since 2014
+:   **Director of Advanced IP Services for [Valley Internet][2]**  
+    (Napa County, California).
+
+    Data mining on "various" sources to forecast passenger demands over
+    airline networks.
+
+2013
+:   **Regional Directory for [Gay & Lesbian Victory Fund and
+Institute][3]**  
+    (Washington, D.C.)
+
+    * Secured event sponsorships from major corporate sponsors: Wells Fargo, Southwest Airlines,
+      Comcast, DOW Chemical, AT&T
+    * Raised more than $850,000 from more than 2,500 donors
+    * Hosted fundraising receptions in GA, NC, TN and TX
+    * Advised LGBT candidates for political office
+
+2012
+:   **Finance Director for [Julia Brownley for Congress
+(CA-26)][4]**  
+    (Camarillo, CA)
+
+    * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
+    * Worked directly with Campaign Manager to manage cash flow and the candidate’s schedule.
+    * Hired, trained and managed 2 full-time staffers; produced briefing memos and planned trips to DC for the candidate.
+    * Developed all direct mail and email solicitations in-house; raised funds from over 10,000 individual donors.
+    * Managed all PAC fundraising in-house, working directly with local & national PAC contacts.
+    * Planned 35 fundraising events; worked with event surrogates and their staffs—including events with U.S. Senators, members of Congress, Vice President Joe Biden, and former President Clinton.
+
+2011
+:	**Political Assistant to [House Democratic Whip Steny
+Hoyer][5]**  
+	(Washington, D.C.)
+
+	* Gained extensive experience with political strategy & operations related to Congressman Hoyer’s Leadership PAC. 
+	* Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
+	* Produced extensive briefing memos for Mr. Hoyer’s trips to over 30-targeted Congressional districts in 2011.
+	* Researched and tracked statistical, financial & polling data on all targeted House districts and redistricting.
+	* Tracked over $2.3 million dollars raised for candidates & party committees; managed all FEC compliance.
+	* Assisted Political Dir. in managing a $2.6 million budget; reviewed all disbursements with our compliance attorney.
+
+2010
+:	**Deputy Finance Director to [Ami Bera for Congress
+CA-03][6]**
+	(Elk Grove, CA)
+
+	* Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
+	* Worked directly with the candidate and senior staff to implement an aggressive fundraising plan.
+	* Supervised 2 full-time assistants, researched & cultivated donors, helped develop all fundraising solicitations.
+	* Built and managed a database of over 4,000 individual donors $2.9 million raised in the 2010 cycle. 
+
+
+Network Stack
+-------------
+
+**VoIP**
+:   Deployed 30 hosted SIP-based PBX serveres for business.  
+    Installed Comunigate Pro, Polycom, Flowroute and Cisco
+
+**SIP**
+:   Advanced configuration and knowledge of major VoIP codecs
+
+**TCP**
+:   Subnetting and public/private IP allocation for DHCP pools and
+security
+
 
 Activities and interests
 ------------------------
@@ -124,10 +112,19 @@ Sports
 
 Activities
 :   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
+    cercle][7], one of the largest French
     campus student associations (5.000 members) during university.
 
 ----
 
 > <ryan@loney.io> • +1 (707) 200-1140 \
 >  1255 66th St., Emeryville, CA 94608
+
+
+[1]: http://greenvalleytractor.com
+[2]: http://valleyinternet.com/
+[3]: http://victoryfund.org
+[4]: http://juliabrownley.com
+[5]: http://hoyer.house.gov/
+[6]: http://bera.house.gov
+[7]: http://www.grandcercle.org
