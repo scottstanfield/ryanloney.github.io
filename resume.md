@@ -1,9 +1,7 @@
 Ryan A. Loney
 =============
 
-----
-
->   Network Engineer with OSI 7 Layer Expertise
+>   *Network Engineer with OSI 7 Layer Expertise*
 
 ----
 
@@ -20,7 +18,7 @@ Corporate Experience
 --------------------
 
 Since 2005
-:   **Remote Technical Support for [Green Valley Tractor](http://greenvalleytractor.com)**  
+:   **Remote Technical Support for [Green Valley Tractor][1]**  
     (Suisun Valley, California)
 
     * Managing phone and computer network, software and hardware
@@ -35,7 +33,7 @@ Since 2005
 
 
 Since 2014
-:   **Director of Advanced IP Services for [Valley Internet](http://valleyinternet.com/)**  
+:   **Director of Advanced IP Services for [Valley Internet][2]**  
     (Napa County, California).
 
     Data mining on "various" sources to forecast passenger demands over
@@ -43,7 +41,7 @@ Since 2014
 
 2013
 :   **Regional Directory for [Gay & Lesbian Victory Fund and
-Institute](http://victoryfund.org)**  
+Institute][3]**  
     (Washington, D.C.)
 
     * Secured event sponsorships from major corporate sponsors: Wells Fargo, Southwest Airlines,
@@ -54,9 +52,8 @@ Institute](http://victoryfund.org)**
 
 2012
 :   **Finance Director for [Julia Brownley for Congress
-(CA-26)](http://juliabrownley.com)**  
+(CA-26)][4]**  
     (Camarillo, CA)
-
 
     * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
     * Worked directly with Campaign Manager to manage cash flow and the candidate’s schedule.
@@ -65,32 +62,40 @@ Institute](http://victoryfund.org)**
     * Managed all PAC fundraising in-house, working directly with local & national PAC contacts.
     * Planned 35 fundraising events; worked with event surrogates and their staffs—including events with U.S. Senators, members of Congress, Vice President Joe Biden, and former President Clinton.
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2011
+:	**Political Assistant to [House Democratic Whip Steny
+Hoyer][5]**  
+	(Washington, D.C.)
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+	* Gained extensive experience with political strategy & operations related to Congressman Hoyer’s Leadership PAC. 
+	* Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
+	* Produced extensive briefing memos for Mr. Hoyer’s trips to over 30-targeted Congressional districts in 2011.
+	* Researched and tracked statistical, financial & polling data on all targeted House districts and redistricting.
+	* Tracked over $2.3 million dollars raised for candidates & party committees; managed all FEC compliance.
+	* Assisted Political Dir. in managing a $2.6 million budget; reviewed all disbursements with our compliance attorney.
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+2010
+:	**Deputy Finance Director to [Ami Bera for Congress
+CA-03][6]**
+	(Elk Grove, CA)
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+	* Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
+	* Worked directly with the candidate and senior staff to implement an aggressive fundraising plan.
+	* Supervised 2 full-time assistants, researched & cultivated donors, helped develop all fundraising solicitations.
+	* Built and managed a database of over 4,000 individual donors $2.9 million raised in the 2010 cycle. 
+
 
 Network Stack
 -------------
 
-VoIP
+**VoIP**
 :   Deployed 30 hosted SIP-based PBX serveres for business.  
     Installed Comunigate Pro, Polycom, Flowroute and Cisco
 
-SIP
+**SIP**
 :   Advanced configuration and knowledge of major VoIP codecs
 
-TCP
+**TCP**
 :   Subnetting and public/private IP allocation for DHCP pools and
 security
 
@@ -107,10 +112,19 @@ Sports
 
 Activities
 :   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
+    cercle][7], one of the largest French
     campus student associations (5.000 members) during university.
 
 ----
 
 > <ryan@loney.io> • +1 (707) 200-1140 \
 >  1255 66th St., Emeryville, CA 94608
+
+
+[1]: http://greenvalleytractor.com
+[2]: http://valleyinternet.com/
+[3]: http://victoryfund.org
+[4]: http://juliabrownley.com
+[5]: http://hoyer.house.gov/
+[6]: http://bera.house.gov
+[7]: http://www.grandcercle.org

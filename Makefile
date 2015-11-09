@@ -10,7 +10,7 @@ resume.pdf: resume.md
 
 html: resume.html
 resume.html: style.css resume.md templates/boilerplate.html
-	pandoc -S  \
+	pandoc --smart  \
         --from markdown --to html \
 		-o _fragment.html resume.md
 	gsed -nf templates/ssi.sed templates/boilerplate.html | gsed 'N;N;s/\n//' | gsed -f - templates/boilerplate.html > resume.html
