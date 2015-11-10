@@ -10,7 +10,7 @@ Education
 
 2006-2010
 :   **BS, Environmental Policy Analysis & Planning**  
-    University of California at Davis  
+    University of California, Davis  
 
     Emphasis in Energy Policy  
 
@@ -23,7 +23,7 @@ Corporate Experience
 --------------------
 
 2005-2014
-:   **Director of IT for [Green Valley Tractor][1]**  
+:   **Director of IT for [Green Valley Tractor, Inc.][1]**  
     (Suisun Valley, California)
 
     * Managed phone and computer network, software and hardware
@@ -34,14 +34,14 @@ Corporate Experience
     * Replaced legacy Windows Server to AWS EC2 to host existing inventory
       management, CRM, and invoicing software off-site
     * Transitioned copper PRIs and T1 data to dedicated 20Mbps dedicated
-      bandwidth over fixed wireless, saving $10-$15k per year
+      bandwidth over fixed wireless, saving $10-$:15k per year
     * Upgraded email services to Microsoft Office 365
     * Installed property-wide 720p IP survallience cameras with remote access and monitoring
 
 
 Since 2014
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
-    (Napa, CA).
+    (Napa Valley, CA).
 
     * Manage relationships with over 300 business accounts, open new
     accounts
@@ -61,8 +61,8 @@ Institute][3]**
     * Directly advised LGBT political candidates on fundraising, 65% win rate
 
 2012
-:   **Finance Director for [Julia Brownley for Congress
-(CA-26)][4]**  
+:   **Finance Director for [Julia Brownley] for Congress
+(CA-26)[4]**  
     (Camarillo, CA)
 
     * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
