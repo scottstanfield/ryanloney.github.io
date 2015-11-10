@@ -39,9 +39,9 @@ Since 2005
 :   **Director of IT for [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, CA
 
-    * Managed SIP VoIP phones, gigabit network infrastructure, software installation and hardware maintenence. 
+    * Manage local network, VoIP phones, software and hardware. 
     * Implemented Google AdWords and established supplier-hosted
-      website that integrates with Kubota.com.
+      website that integrates with[kubota.com/dealer][7].
     * Replaced Windows 2000 Server with AWS EC2 to host legacy inventory
       management, CRM, and invoicing software system in the cloud.
     * Transitioned from 1.5Mbps T1 to 20Mbps dedicated
@@ -135,4 +135,4 @@ security
 [4]: http://juliabrownley.house.gov
 [5]: http://democraticwhip.gov/
 [6]: http://bera.house.gov
-[7]: http://www.grandcercle.org
+[7]: http://www.kubota.com/dealer/default.aspx
