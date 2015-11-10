@@ -56,13 +56,15 @@ Institute][3]**
     (Washington, D.C.)
 
     * Secured corporate event sponsors including: AT&T, Bank of America, Southwest, & Wells Fargo
-    * Raised more than $850,000 from more than 2,500 donors in the South 
-    * Organized and executed fundraising receptions in GA, NC, TN and TX
-    * Directly advised LGBT political candidates on fundraising, 65% win rate
+    * Raised more than $850,000 from more than 2,500 donors 
+    * Organized and executed fundraising receptions in Atlanta,
+	  Charlotte, Houston, and Nashville
+    * Directly advised political candidates on fundraising, 65% win rate
+	  in 2013
 
 2012
-:   **Finance Director for [Julia Brownley] for Congress
-(CA-26)[4]**  
+:   **Finance Director for [Julia Brownley][4] for Congress
+(CA-26)**  
     (Camarillo, CA)
 
     * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
@@ -77,26 +79,27 @@ Institute][3]**
 Hoyer][5]**  
     (Washington, D.C.)
 
-    * Gained extensive experience with political strategy & operations related to Congressman Hoyer’s Leadership PAC. 
     * Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
-    * Produced extensive briefing memos for Mr. Hoyer’s trips to over 30-targeted Congressional districts in 2011.
-    * Researched and tracked statistical, financial & polling data on all targeted House districts and redistricting.
-    * Tracked over $2.3 million dollars raised for candidates & party committees; managed all FEC compliance.
-    * Assisted Political Dir. in managing a $2.6 million budget; reviewed all disbursements with our compliance attorney.
+    * Produced briefing memos for Hoyer's trips to 30+ DCCC targeted House districts.
+    * Processed compliance documents for $2.3 million dollars raised for candidates & the Democratic party, submitted to FEC compliance attorney.
+    * Assisted Political Director in managing a $2.6 million budget for
+	  political operations. 
 
 2010
-:   **Deputy Finance Director to [Ami Bera for Congress
-CA-03][6]**
+:   **Deputy Finance Director to [Ami Bera][6] for Congress
+CA-03]**
     (Elk Grove, CA)
 
     * Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
-    * Worked directly with the candidate and senior staff to implement an aggressive fundraising plan.
-    * Supervised 2 full-time assistants, researched & cultivated donors, helped develop all fundraising solicitations.
-    * Built and managed a database of over 4,000 individual donors $2.9 million raised in the 2010 cycle. 
+    * Supervised 2 full-time assistants, researched & cultivated donors, helped develop email fundraising solicitations.
+    * Built and managed database with over 4,000 donors, exported and matched data with compliance officer's reports.   
 
 
 Network Stack
 -------------
+**Layer 
+
+
 
 **VoIP**
 :   Deployed 30 hosted SIP-based PBX serveres for business.  
