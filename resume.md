@@ -22,22 +22,6 @@ Education
 Corporate Experience
 --------------------
 
-2005-2014
-:   **Director of IT for [Green Valley Tractor, Inc.][1]**  
-    Suisun Valley, California
-
-    * Managed phone and computer network, software and hardware
-    * Exported accounting reports, inventory reports, and sales reports
-      for data analysis
-    * Implemented Google AdWords, moved website supplier-hosted
-      service to eliminate cost of maintenence and hosting
-    * Replaced legacy Windows Server to AWS EC2 to host existing inventory
-      management, CRM, and invoicing software off-site
-    * Transitioned copper PRIs and T1 data to dedicated 20Mbps dedicated
-      bandwidth over fixed wireless, saving $10-$:15k per year
-    * Upgraded email services to Microsoft Office 365
-    * Installed property-wide 720p IP survallience cameras with remote access and monitoring
-
 
 Since 2014
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
@@ -49,6 +33,28 @@ Since 2014
     * Survey complex locations to establish 900MHz, 2GHz, 5GHz, 3.65GHz, and
     24GHz microwave data links
     * Field experience with optical fiber, 2GHz-24GHz wireless, VoIP/SIP, 
+
+
+2005-2014 (Full Time)
+Since 2014 (Part Time)
+:   **Director of IT for [Green Valley Tractor, Inc.][1]**  
+    Suisun Valley, California
+
+    * Managed SIP VoIP phones, gigabit network infrastructure, software installation and hardware maintenence. 
+    * Implemented Google AdWords and established supplier-hosted
+      website that integrates with Kubota.com.
+    * Replaced Windows 2000 Server with AWS EC2 to host legacy inventory
+      management, CRM, and invoicing software system in the cloud.
+    * Transitioned from 1.5Mbps T1 to 20Mbps dedicated
+      bandwidth over fixed wireless with /29 public IPv4 subnet -- saving &#3610-15k per year.
+    * Migrated email Office 365, installed corportate LastPass and DropBox for accessing cloud-based
+	  services and sharing crictical documents with clients. 
+    * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and motion alerts. 
+    * Applied for and secured over &#361.2 million in grant funding for
+	  clients from the Bay Area Air Quality Management District BAAQMD
+	  to destroy and replace Tractors that do not meet NOx and PM
+	  emmissions standards. 
+
 
 2013
 :   **Regional Director for [Gay & Lesbian Victory Fund and
