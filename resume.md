@@ -22,38 +22,43 @@ Education
 Corporate Experience
 --------------------
 
-Since 2005
-:   **Remote Technical Support for [Green Valley Tractor][1]**  
+2005-2014
+:   **Director of IT for [Green Valley Tractor][1]**  
     (Suisun Valley, California)
 
-    * Managing phone and computer network, software and hardware
-    * Troubleshooting and support for clients and supplier software
-      providers
-    * Help with accounting reports, database management and data
-      analysis
-    * Configure Google AdWords advertising program and update company
-      website
-    * Setup AWS instance to run Windows 2012 on EC2
-    * IP survallience cameras 
+    * Managed phone and computer network, software and hardware
+    * Exported accounting reports, inventory reports, and sales reports
+      for data analysis
+    * Implemented Google AdWords, moved website supplier-hosted
+      service to eliminate cost of maintenence and hosting
+    * Replaced legacy Windows Server to AWS EC2 to host existing inventory
+      management, CRM, and invoicing software off-site
+    * Transitioned copper PRIs and T1 data to dedicated 20Mbps dedicated
+      bandwidth over fixed wireless, saving $10-$15k per year
+    * Upgraded email services to Microsoft Office 365
+    * Installed property-wide 720p IP survallience cameras with remote access and monitoring
 
 
 Since 2014
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
-    (Napa County, California).
+    (Napa, CA).
 
-    Data mining on "various" sources to forecast passenger demands over
-    airline networks.
+    * Manage relationships with over 300 business accounts, open new
+    accounts
+    * Coordinate special projects, design advanced IP networks with enterprise WiFi, IP security cameras, VoIP, remote monitoring, and more. 
+    * Survey complex locations to establish 900MHz, 2GHz, 5GHz, 3.65GHz, and
+    24GHz microwave data links
+    * Field experience with optical fiber, 2GHz-24GHz wireless, VoIP/SIP, 
 
 2013
-:   **Regional Directory for [Gay & Lesbian Victory Fund and
+:   **Regional Director for [Gay & Lesbian Victory Fund and
 Institute][3]**  
     (Washington, D.C.)
 
-    * Secured event sponsorships from major corporate sponsors: Wells Fargo, Southwest Airlines,
-      Comcast, DOW Chemical, AT&T
-    * Raised more than $850,000 from more than 2,500 donors
-    * Hosted fundraising receptions in GA, NC, TN and TX
-    * Advised LGBT candidates for political office
+    * Secured corporate event sponsors including: AT&T, Bank of America, Southwest, & Wells Fargo
+    * Raised more than $850,000 from more than 2,500 donors in the South 
+    * Organized and executed fundraising receptions in GA, NC, TN and TX
+    * Directly advised LGBT political candidates on fundraising, 65% win rate
 
 2012
 :   **Finance Director for [Julia Brownley for Congress
@@ -114,7 +119,7 @@ security
 [1]: http://greenvalleytractor.com
 [2]: http://valleyinternet.com/
 [3]: http://victoryfund.org
-[4]: http://juliabrownley.com
-[5]: http://hoyer.house.gov/
+[4]: http://juliabrownley.house.gov
+[5]: http://democraticwhip.gov/
 [6]: http://bera.house.gov
 [7]: http://www.grandcercle.org
