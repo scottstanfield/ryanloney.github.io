@@ -35,8 +35,9 @@ Since 2014
     * Field experience with optical fiber, 2GHz-24GHz wireless, VoIP/SIP, 
 
 
-2005-2014 (Full Time)
-Since 2014 (Part Time)
+2005-2014 (Full Time)  
+
+Since 2014 (Part Time)  
 :   **Director of IT for [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, California
 
@@ -47,13 +48,9 @@ Since 2014 (Part Time)
       management, CRM, and invoicing software system in the cloud.
     * Transitioned from 1.5Mbps T1 to 20Mbps dedicated
       bandwidth over fixed wireless with /29 public IPv4 subnet -- saving &#3610-15k per year.
-    * Migrated email Office 365, installed corportate LastPass and DropBox for accessing cloud-based
-	  services and sharing crictical documents with clients. 
+    * Migrated email Office 365, installed corportate LastPass and DropBox for accessing cloud-based services and sharing crictical documents with clients. 
     * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and motion alerts. 
-    * Applied for and secured over &#361.2 million in grant funding for
-	  clients from the Bay Area Air Quality Management District BAAQMD
-	  to destroy and replace Tractors that do not meet NOx and PM
-	  emmissions standards. 
+    * Applied for and secured over &#361.2 million in grant funding for clients from the Bay Area Air Quality Management District BAAQMD to destroy and replace Tractors that do not meet EPA emmissions standards.
 
 
 2013
