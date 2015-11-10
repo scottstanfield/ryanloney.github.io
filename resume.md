@@ -30,16 +30,13 @@ Since 2014
     * Manage relationships with over 300 business accounts, open new
     accounts
     * Coordinate special projects, design advanced IP networks with enterprise WiFi, IP security cameras, VoIP, remote monitoring, and more. 
-    * Survey complex locations to establish 900MHz, 2GHz, 5GHz, 3.65GHz, and
-    24GHz microwave data links
-    * Field experience with optical fiber, 2GHz-24GHz wireless, VoIP/SIP, 
+    * Survey complex locations to establish 900MHz-24GHz RF links for high-capacity, low latency broadband.
+    * Field experience with optical fiber, 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, 802.3af PoE, non-802.3af compliant PoE, photovoltaic solar systems, and powering network gear with DC power.
 
 
-2005-2014 (Full Time)  
-
-Since 2014 (Part Time)  
+Since 2005
 :   **Director of IT for [Green Valley Tractor, Inc.][1]**  
-    Suisun Valley, California
+    Suisun Valley, CA
 
     * Managed SIP VoIP phones, gigabit network infrastructure, software installation and hardware maintenence. 
     * Implemented Google AdWords and established supplier-hosted
