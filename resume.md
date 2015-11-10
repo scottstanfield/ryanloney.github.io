@@ -92,11 +92,26 @@ Institute][3]**
     * Built and managed database with over 4,000 donors, exported and matched data with compliance officer's reports.   
 
 
-Network Stack
--------------
+OSI Layer Stack Experience
+------------------------------  
+**Layer 1**
+:  Troublehsooted, installed, configured, and designed  900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links
+:  Experience installing multimode and singlemode fiber-optic links,
+pulling fiber, and fiber-optic media conversion to gigabit ethernet
+:  Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable
+:  Pulling fiber-optic and cat5 cable through conduit
+:  Testing cable integrity with Fluke IntelliTone toner and
+MicroScanner cable verifier
 
-**VoIP**
-:   Deployed 30 hosted SIP-based PBX serveres for business.  
+
+**Layer 2**
+:  Managed, configured, and communicated with devices over Layer 1,
+including routers and managed switches
+:  Assigned static DHCP reservations to network devices by MAC Address
+
+**Layer 3**
+:  
+
     Installed Comunigate Pro, Polycom, Flowroute and Cisco
 
 **SIP**
