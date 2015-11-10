@@ -36,23 +36,22 @@ Since 2014
 
 
 Since 2005
-:   **Director of IT for [Green Valley Tractor, Inc.][1]**  
+:   **Director of IT at [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, CA
 
-    * Manage local network, VoIP phones, software and hardware. 
-    * Implemented Google AdWords and established supplier-hosted
-      website that integrates with[kubota.com/dealer][7].
+    * Support for local network, hosted VoIP, software and hardware. 
+    * Manage Google AdWords and supplier-hosted website that integrates with [kubota.com][7].
     * Replaced Windows 2000 Server with AWS EC2 to host legacy inventory
       management, CRM, and invoicing software system in the cloud.
     * Transitioned from 1.5Mbps T1 to 20Mbps dedicated
-      bandwidth over fixed wireless with /29 public IPv4 subnet -- saving &#3610-15k per year.
+      bandwidth over fixed wireless with /29 public IPv4 subnet -- saving 10-15k per year in operating costs.
     * Migrated email Office 365, installed corportate LastPass and DropBox for accessing cloud-based services and sharing crictical documents with clients. 
-    * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and motion alerts. 
-    * Applied for and secured over &#361.2 million in grant funding for clients from the Bay Area Air Quality Management District BAAQMD to destroy and replace Tractors that do not meet EPA emmissions standards.
+    * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system.
+    * Wrote and submmited grant applications to receive over 1.2 million dollars in direct financing to customers from the Bay Area Air Quality Management District BAAQMD to replace Tractors and meet EPA emmissions standards for NOx and PM.
 
 
 2013
-:   **Regional Director for [Gay & Lesbian Victory Fund and
+:   **Regional Director at [Gay & Lesbian Victory Fund and
 Institute][3]**  
     Washington, D.C.
 
@@ -64,7 +63,7 @@ Institute][3]**
       in 2013
 
 2012
-:   **Finance Director for [Julia Brownley][4] for Congress (CA-26)**  
+:   **Finance Director at [Julia Brownley][4] for Congress (CA-26)**  
     Camarillo, CA
 
     * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
@@ -85,7 +84,7 @@ Institute][3]**
       political operations.
 
 2010
-:   **Deputy Finance Director to [Ami Bera][6] for Congress (CA-03)**  
+:   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
     Elk Grove, CA
 
     * Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
@@ -96,32 +95,27 @@ Institute][3]**
 OSI Layer Stack Experience
 ------------------------------  
 **Layer 1**
-:  Troublehsooted, installed, configured, and designed  900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links
-:  Experience installing multimode and singlemode fiber-optic links,
+:  * Troublehsooted, installed, configured, and designed  900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links
+:  * Experience installing multimode and singlemode fiber-optic links,
 pulling fiber, and fiber-optic media conversion to gigabit ethernet
-:  Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable
-:  Pulling fiber-optic and cat5 cable through conduit
-:  Testing cable integrity with Fluke IntelliTone toner and
+:  * Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable
+:  * Pulling fiber-optic and cat5 cable through conduit
+:  * Testing cable integrity with Fluke IntelliTone toner and
 MicroScanner cable verifier
 
-
 **Layer 2**
-:  Managed, configured, and communicated with devices over Layer 1,
+:  * Managed, configured, and communicated with devices over Layer 1,
 including routers and managed switches
-:  Assigned static DHCP reservations to network devices by MAC Address
+:  * Assigned static DHCP reservations to network devices by MAC Address
 
 **Layer 3**
-:  
-
-    Installed Comunigate Pro, Polycom, Flowroute and Cisco
+:  * TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and
+WAN devices, 
 
 **SIP**
 :   Advanced configuration and knowledge of major VoIP codecs
 
-**TCP**
-:   Subnetting and public/private IP allocation for DHCP pools and
-security
-
+Installed Comunigate Pro, Polycom, Flowroute and Cisco
 
 ----
 
@@ -135,4 +129,4 @@ security
 [4]: http://juliabrownley.house.gov
 [5]: http://democraticwhip.gov/
 [6]: http://bera.house.gov
-[7]: http://www.kubota.com/dealer/default.aspx
+[7]: http://www.kubota.com/
