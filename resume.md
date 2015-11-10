@@ -24,7 +24,7 @@ Corporate Experience
 
 2005-2014
 :   **Director of IT for [Green Valley Tractor, Inc.][1]**  
-    (Suisun Valley, California)
+    Suisun Valley, California
 
     * Managed phone and computer network, software and hardware
     * Exported accounting reports, inventory reports, and sales reports
@@ -41,7 +41,7 @@ Corporate Experience
 
 Since 2014
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
-    (Napa Valley, CA).
+    Napa Valley, CA
 
     * Manage relationships with over 300 business accounts, open new
     accounts
@@ -53,19 +53,18 @@ Since 2014
 2013
 :   **Regional Director for [Gay & Lesbian Victory Fund and
 Institute][3]**  
-    (Washington, D.C.)
+    Washington, D.C.
 
     * Secured corporate event sponsors including: AT&T, Bank of America, Southwest, & Wells Fargo
     * Raised more than $850,000 from more than 2,500 donors 
     * Organized and executed fundraising receptions in Atlanta,
-	  Charlotte, Houston, and Nashville
+      Charlotte, Houston, and Nashville
     * Directly advised political candidates on fundraising, 65% win rate
-	  in 2013
+      in 2013
 
 2012
-:   **Finance Director for [Julia Brownley][4] for Congress
-(CA-26)**  
-    (Camarillo, CA)
+:   **Finance Director for [Julia Brownley][4] for Congress (CA-26)**  
+    Camarillo, CA
 
     * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
     * Worked directly with Campaign Manager to manage cash flow and the candidate’s schedule.
@@ -75,20 +74,18 @@ Institute][3]**
     * Planned 35 fundraising events; worked with event surrogates and their staffs—including events with U.S. Senators, members of Congress, Vice President Joe Biden, and former President Clinton.
 
 2011
-:   **Political Assistant to [House Democratic Whip Steny
-Hoyer][5]**  
-    (Washington, D.C.)
+:   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
+    Washington, D.C.
 
     * Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
     * Produced briefing memos for Hoyer's trips to 30+ DCCC targeted House districts.
     * Processed compliance documents for $2.3 million dollars raised for candidates & the Democratic party, submitted to FEC compliance attorney.
     * Assisted Political Director in managing a $2.6 million budget for
-	  political operations. 
+      political operations.
 
 2010
-:   **Deputy Finance Director to [Ami Bera][6] for Congress
-CA-03]**
-    (Elk Grove, CA)
+:   **Deputy Finance Director to [Ami Bera][6] for Congress (CA-03)**  
+    Elk Grove, CA
 
     * Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
     * Supervised 2 full-time assistants, researched & cultivated donors, helped develop email fundraising solicitations.
@@ -97,9 +94,6 @@ CA-03]**
 
 Network Stack
 -------------
-**Layer 
-
-
 
 **VoIP**
 :   Deployed 30 hosted SIP-based PBX serveres for business.  
