@@ -27,10 +27,11 @@ Since 2014
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
     Napa Valley, CA
 
-    * Manage relationships with over 300 business accounts, open new
-    accounts
+    * Manage and establish client accounts with over 300 businesses -- including over 100 Napa Valley wineries.
     * Coordinate special projects, design advanced IP networks with enterprise WiFi, IP security cameras, VoIP, remote monitoring, and more. 
-    * Survey complex locations to establish 900MHz-24GHz RF links for high-capacity, low latency broadband.
+    * Survey complex locations to establish wireless RF links or
+	  fiber-optic loopback for high-speed, low-latency broadband
+	  Internet service -- primarily in areas limited to dial-up, DS1/T1, or Satellite for Internet services.
     * Field experience with optical fiber, 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, 802.3af PoE, non-802.3af compliant PoE, photovoltaic solar systems, and powering network gear with DC power.
 
 
