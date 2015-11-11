@@ -1,7 +1,7 @@
 all: html pdf docx rtf
 
 pdf: resume.pdf
-resume.pdf: resume.md
+resume.pdf: resume.md style.tex
 	pandoc --standalone --template style.tex \
 	--from markdown --to context \
 	-V papersize=A4 \

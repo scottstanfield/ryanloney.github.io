@@ -6,6 +6,8 @@
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
+\usemodule [simplefonts][size=11pt]
+
 \startmode[*mkii]
   \enableregime[utf-8]  
   \setupcolors[state=start]
@@ -15,12 +17,14 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
-\definecolor[rulecolor][h=9cb770]
+\definecolor[titlegrey][h=C81F25]
+\definecolor[sectioncolor][h=888888]
+\definecolor[rulecolor][h=888888]
+\definecolor[linkcolor][h=C81F25]
 
 % Enable hyperlinks
-\setupinteraction[state=start, color=sectioncolor]
+\setupinteraction[state=start, color=linkcolor]
+
 
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
@@ -30,13 +34,19 @@ $endif$
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+
+\definesimplefonttypeface[headerfont][Equity Caps A Bold]
+\definefont[HeaderFont][\classfont{headerfont}{Serif} at 24pt]
+\setuphead[chapter][style=HeaderFont]
+
+\setmainfont[Equity Text A][expansion=quality,protrusion=quality]
+% \setupbodyfont[11pt, helvetica]
 
 \setupwhitespace[medium]
 
 \setupblackrules[width=31mm, color=rulecolor, height=2pt]
 
-\setuphead[chapter]      [style=\tfd]
+% \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
