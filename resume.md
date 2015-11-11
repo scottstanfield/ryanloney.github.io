@@ -55,23 +55,22 @@ Since 2005
 Institute][3]**  
     Washington, D.C.
 
-    * Secured corporate event sponsors including: AT&T, Bank of America, Southwest, & Wells Fargo
-    * Raised more than $850,000 from more than 2,500 donors 
+    * Secured corporate event sponsorships from AT&T, Bank of America, Southwest, & Wells Fargo.
+    * Raised more than $850,000 from more than 2,500 donors.
     * Organized and executed fundraising receptions in Atlanta,
-      Charlotte, Houston, and Nashville
-    * Directly advised political candidates on fundraising, 65% win rate
-      in 2013
+      Charlotte, Houston, and Nashville, with over 1,250 atendees.
+    * Directly advised and trained political candidates on fundraising, 65% win rate
+      in 2013 cycle.
 
 2012
 :   **Finance Director at [Julia Brownley][4] for Congress (CA-26)**  
     Camarillo, CA
 
-    * Developed and executed the fundraising plan for a successful Congressional candidate; raised $2.1 million in 8 months. 
-    * Worked directly with Campaign Manager to manage cash flow and the candidate’s schedule.
-    * Hired, trained and managed 2 full-time staffers; produced briefing memos and planned trips to DC for the candidate.
-    * Developed all direct mail and email solicitations in-house; raised funds from over 10,000 individual donors.
-    * Managed all PAC fundraising in-house, working directly with local & national PAC contacts.
-    * Planned 35 fundraising events; worked with event surrogates and their staffs—including events with U.S. Senators, members of Congress, Vice President Joe Biden, and former President Clinton.
+    * Recruited by DCCC for targeted House district after an unexpected retirement. 
+    * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%.
+    * Hired, trained and supervised 2 full-time staff.
+    * Developed digitial fundraising solicitations, raising funds from over 10,000 individuals, and more than $200,000 from email solicitations.
+    * Planned 35 fundraising events with surrogates including Vice President Joe Biden, President Bill Clinton, and others.
 
 2011
 :   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
@@ -110,7 +109,10 @@ including routers and managed switches
 
 **Layer 3**
 :  * TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and
-WAN devices, 
+WAN devies, 
+
+**Layer 4**
+:  * 
 
 **SIP**
 :   Advanced configuration and knowledge of major VoIP codecs
