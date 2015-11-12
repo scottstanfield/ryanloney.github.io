@@ -10,9 +10,8 @@ Education
 
 2006-2010
 :   **BS, Environmental Policy Analysis & Planning**  
-    University of California, Davis  
-
-    Emphasis in Energy Policy  
+    *Emphasis in Energy Policy*  
+    University of California, Davis 
 
 2015
 :   **Certified Network Associate for [MikroTik](http://routeros.com)**  
@@ -30,8 +29,8 @@ Since 2014
     * Manage and establish client accounts with over 300 businesses -- including over 100 Napa Valley wineries.
     * Coordinate special projects, design advanced IP networks with enterprise WiFi, IP security cameras, VoIP, remote monitoring, and more. 
     * Survey complex locations to establish wireless RF links or
-	  fiber-optic loopback for high-speed, low-latency broadband
-	  Internet service -- primarily in areas limited to dial-up, DS1/T1, or Satellite for Internet services.
+      fiber-optic loopback for high-speed, low-latency broadband
+      Internet service -- primarily in areas limited to dial-up, DS1/T1, or Satellite for Internet services.
     * Field experience with optical fiber, 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, 802.3af PoE, non-802.3af compliant PoE, photovoltaic solar systems, and powering network gear with DC power.
 
 
@@ -55,11 +54,11 @@ Since 2005
 Institute][3]**  
     Washington, D.C.
 
-    * Secured corporate event sponsorships from AT&T, Bank of America, Southwest, & Wells Fargo.
+    * Secured corporate sponsors: AT&T, Bank of America, Southwest, and Wells Fargo.
     * Raised more than $850,000 from more than 2,500 donors.
     * Organized and executed fundraising receptions in Atlanta,
-      Charlotte, Houston, and Nashville, with over 1,250 atendees.
-    * Directly advised and trained political candidates on fundraising, 65% win rate
+      Charlotte, Houston, and Nashville, with over 1,250 attendees.
+    * Advised and trained political candidates on fundraising: 65% win rate
       in 2013 cycle.
 
 2012
@@ -69,8 +68,8 @@ Institute][3]**
     * Recruited by DCCC for targeted House district after an unexpected retirement. 
     * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%.
     * Hired, trained and supervised 2 full-time staff.
-    * Developed digitial fundraising solicitations, raising funds from over 10,000 individuals, and more than $200,000 from email solicitations.
-    * Planned 35 fundraising events with surrogates including Vice President Joe Biden, President Bill Clinton, and others.
+    * Developed digitial fundraising plan, than $200,000 from email alone.
+    * Planned 35 fundraisers (keynotes by Vice President Biden, President Clinton, et al)
 
 2011
 :   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
@@ -84,10 +83,14 @@ Institute][3]**
 :   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
     Elk Grove, CA
 
-    * Managed fundraising call time for a top tier Congressional candidate, helping raise over $2.9 million. 
-    * Supervised 2 full-time assistants, researched & cultivated donors, helped develop email fundraising solicitations.
-    * Built and managed database with over 4,000 donors, exported and matched data with compliance officer's reports.   
+	* Managed call time for a top tier Congressional candidate, to raise over $2.9 million. 
+	* Hired and supervied two full-time assistants.
+	* Researched & cultivated donors; built digital fundraising plan.
+	* Built and managed database with over 4,000 donors; exported and
+	  matched data with compliance officer's reports.  
 
+  
+  
 
 OSI Layer Stack Experience
 --------------------------
@@ -104,7 +107,7 @@ OSI Layer Stack Experience
     Assigned static DHCP reservations to network devices by MAC Address.
 
 **Layer 3**
-:  * TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
+:   TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
 
 **SIP**
 :   Advanced configuration and knowledge of major VoIP codecs.
