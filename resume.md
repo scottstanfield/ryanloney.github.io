@@ -1,4 +1,4 @@
-Ryan A. Loney
+RYAN A. LONEY
 =============
 
 >   *Network Engineer with OSI 7 Layer Expertise*
@@ -90,32 +90,25 @@ Institute][3]**
 
 
 OSI Layer Stack Experience
-------------------------------  
+--------------------------
+
 **Layer 1**
-:  * Troublehsooted, installed, configured, and designed  900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links
-:  * Experience installing multimode and singlemode fiber-optic links,
-pulling fiber, and fiber-optic media conversion to gigabit ethernet
-:  * Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable
-:  * Pulling fiber-optic and cat5 cable through conduit
-:  * Testing cable integrity with Fluke IntelliTone toner and
-MicroScanner cable verifier
+:   Full network engineering over 900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links.
+    Multimode and singlemode fiber-optic links, and fiber-optic media conversion to gigabit ethernet.
+    Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable.
+    Pulling fiber-optic and cat5 cable through conduit.
+    Testing cable integrity with Fluke IntelliTone toner and MicroScanner cable verifier.
 
 **Layer 2**
-:  * Managed, configured, and communicated with devices over Layer 1,
-including routers and managed switches
-:  * Assigned static DHCP reservations to network devices by MAC Address
+:   Managed, configured, and communicated with devices over Layer 1, including routers and managed switches.
+    Assigned static DHCP reservations to network devices by MAC Address.
 
 **Layer 3**
-:  * TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and
-WAN devies, 
-
-**Layer 4**
-:  * 
+:  * TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
 
 **SIP**
-:   Advanced configuration and knowledge of major VoIP codecs
-
-Installed Comunigate Pro, Polycom, Flowroute and Cisco
+:   Advanced configuration and knowledge of major VoIP codecs.
+    Installed Comunigate Pro, Polycom, Flowroute and Cisco
 
 ----
 
