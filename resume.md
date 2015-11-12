@@ -107,7 +107,7 @@ OSI Layer Stack Experience
     Assigned static DHCP reservations to network devices by MAC Address.
 
 **Layer 3**
-TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
+TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
 
 **Layer 4**
 Field experience with TCP, UDP, PPTP, packet capture, and more. Using
