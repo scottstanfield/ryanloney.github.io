@@ -118,7 +118,7 @@ OSI Layer Stack Experience
 **Layers 5-7**
 :   Experience with DNS, FTP, HTTP, HTTPS, IMAP, NTP, RDP (Apple and
 Windows), SSH, SIP, SMTP, SNMP, and more. Light experience with	BGP,
-BOOTP, LDAP, RADIUS, rsync, RTP,TFTP, TLS and more.  
+BOOTP, LDAP, RADIUS, rsync, RTP, TFTP, TLS and more.  
 
 
 **Applications**
