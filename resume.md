@@ -76,11 +76,9 @@ Institute][3]**
 :   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
     Washington, D.C.
 
-    * Reported directly to the Political Director; worked extensively with DCCC, campaigns & compliance attorneys.
-    * Produced briefing memos for Hoyer's trips to 30+ DCCC targeted House districts.
+    * Reported to Political Director, assited in managing $2.6 million budget for political operations. 
+    * Produced briefing memos for Hoyer's trips to 30+ DCCC-targeted U.S. House districts.
     * Processed compliance documents for $2.3 million dollars raised for candidates & the Democratic party, submitted to FEC compliance attorney.
-    * Assisted Political Director in managing a $2.6 million budget for
-      political operations.
 
 2010
 :   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
