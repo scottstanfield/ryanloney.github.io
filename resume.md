@@ -126,9 +126,10 @@ BOOTP, LDAP, RADIUS, rsync, RTP, TLS and more. TFTP for VoIP phone
 provisioning.  
 
 
-**SIP**
-:   Advanced configuration and knowledge of major VoIP codecs.
-    Installed Comunigate Pro, Polycom, Flowroute and Cisco
+**Applications**
+:   Advanced configuration and provisioning of major VoIP and complex IP
+networks using Comunigate Pro, Polycom, Flowroute SIP tunking, Cisco
+phones, hosted PBX, hosted NVR, remote SSH troubleshooting. 
 
 ----
 
