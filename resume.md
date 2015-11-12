@@ -98,14 +98,12 @@ OSI Layer Stack Experience
 **Layer 1**
 :   Full network engineering over 900MHz, 2GHz, 5GHz, 11GHz, and 24GHz RF links.
     Multimode and singlemode fiber-optic links, and fiber-optic media conversion to gigabit ethernet.
-    Crimping RJ-45s and punching keystone jacks for cat5 and cat5e cable.
-    Pulling fiber-optic and cat5 cable through conduit.
+    Crimping RJ-45s and punching keystone jacks for cat5. Pulling fiber-optic and cat5 cable through conduit.
     Testing cable integrity with Fluke IntelliTone toner and MicroScanner cable verifier.
 
 **Layer 2**
 :   Managed, configured, and communicated with devices over Layer 1, including routers and managed switches.
-    Assigned static DHCP reservations to network devices by MAC Address.
-	Familiar with EOIP transparent LAN service for simulated Layer 2. 
+    Assigned static DHCP reservations to network devices by MAC Address. Familiar with EOIP for simulated Layer 2 tunnel.
 	  
 **Layer 3**
 :   TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
