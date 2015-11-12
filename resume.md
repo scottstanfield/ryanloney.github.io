@@ -123,10 +123,8 @@ BOOTP, LDAP, RADIUS, rsync, RTP,TFTP, TLS and more.
 
 
 **Applications**
-:   Provisioning of hosted and cloud VoIP systems and complex
-networks. Installing, managing, and troublehooting Comunigate Pro, Polycom phones, Flowroute SIP trunking, Cisco
-phones, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik
-routers, Cisco Meraki, Linux,  MacOS & Windows servers and more. 
+:   Installing, managing, and troublehooting VoIP, Comunigate Pro, Polycom & Cisco phones, Flowroute SIP trunking, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik
+routers, Cisco Meraki, Linux, MacOS & Windows servers, and more. 
 
 ----
 
