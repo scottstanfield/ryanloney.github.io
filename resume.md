@@ -107,9 +107,21 @@ OSI Layer Stack Experience
     Assigned static DHCP reservations to network devices by MAC Address.
 
 **Layer 3**
-:   TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
+TCP/IP, IP subnetting, customer IPv4 allocation, DHCP for LAN and WAN devices, 
 
-**SIP**
+**Layer 4**
+Field experience with TCP, UDP, PPTP, packet capture, and more. Using
+NAT policies and firewall rules to capture VoIP and high-priority
+packets that cannot be isolated at Layer 3, modifying their DSCP tag
+header for higher QoS priority on WAN and/or LAN. Port forwarding, NAT
+traversal troubleshooting, 1:1 NAT, and filtering, shaping, or blocking
+based on port and/or protocol. 
+
+**Layer 5**
+
+
+
+*SIP**
 :   Advanced configuration and knowledge of major VoIP codecs.
     Installed Comunigate Pro, Polycom, Flowroute and Cisco
 
