@@ -43,10 +43,10 @@ Since 2005
     * Replaced Windows 2000 Server with AWS EC2 to host legacy inventory
       management, CRM, and invoicing software system in the cloud
     * Transitioned from 1.5Mbps T1 to 20Mbps dedicated
-      bandwidth over fixed wireless with /29 public IPv4 subnet -- saving 10-15k per year in operating costs
+      bandwidth over fixed wireless with /29 public IPv4 subnet -- saving $10-15k per year in operating costs
     * Migrated email Office 365, installed corportate LastPass and DropBox for accessing cloud-based services and sharing crictical documents with clients 
     * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system
-    * Wrote and submmited grant applications to receive over 1.2 million dollars in direct financing to customers from the Bay Area Air Quality Management District BAAQMD to replace Tractors and meet EPA emmissions standards for NOx and PM
+    * Wrote and submmited grant applications to receive over $1.2 million dollars in direct financing to customers from the Bay Area Air Quality Management District BAAQMD to replace Tractors and meet EPA emmissions standards for NOx and PM
 
 
 2013
