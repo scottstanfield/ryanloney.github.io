@@ -105,6 +105,7 @@ OSI Layer Stack Experience
 **Layer 2**
 :   Managed, configured, and communicated with devices over Layer 1, including routers and managed switches.
     Assigned static DHCP reservations to network devices by MAC Address.
+	Familiar with EOIP transparent LAN service for simulated Layer 2. 
 	  
 **Layer 3**
 :   TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
@@ -118,8 +119,11 @@ OSI Layer Stack Experience
     traversal troubleshooting, 1:1 NAT, and filtering, shaping, or blocking
     based on port and/or protocol. 
 
-**Layer 5**
-
+**Layers 5-7**
+:   Experience with DNS, FTP, HTTP, HTTPS, IMAP, NTP, RDP (Apple and
+Windows), SSH, SIP, SMTP, SNMP, and more. Light experience with	BGP,
+BOOTP, LDAP, RADIUS, rsync, RTP, TLS and more. TFTP for VoIP phone
+provisioning.  
 
 
 **SIP**
