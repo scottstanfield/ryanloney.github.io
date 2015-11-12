@@ -110,7 +110,6 @@ OSI Layer Stack Experience
 **Layer 3**
 :   TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
   
-
 **Layer 4**
 :   Field experience with TCP, UDP, PPTP, packet capture, and more. Using
     NAT policies and firewall rules to capture VoIP and high-priority
@@ -122,14 +121,14 @@ OSI Layer Stack Experience
 **Layers 5-7**
 :   Experience with DNS, FTP, HTTP, HTTPS, IMAP, NTP, RDP (Apple and
 Windows), SSH, SIP, SMTP, SNMP, and more. Light experience with	BGP,
-BOOTP, LDAP, RADIUS, rsync, RTP, TLS and more. TFTP for VoIP phone
-provisioning.  
+BOOTP, LDAP, RADIUS, rsync, RTP,TFTP, TLS and more.  
 
 
 **Applications**
-:   Advanced configuration and provisioning of major VoIP and complex IP
-networks using Comunigate Pro, Polycom, Flowroute SIP tunking, Cisco
-phones, hosted PBX, hosted NVR, remote SSH troubleshooting. 
+:   Provisioning of hosted and cloud VoIP systems and complex
+networks. Installing, managing, and troublehooting Comunigate Pro, Polycom phones, Flowroute SIP trunking, Cisco
+phones, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik
+routers, Cisco Meraki, Linux,  MacOS & Windows servers and more. 
 
 ----
 
