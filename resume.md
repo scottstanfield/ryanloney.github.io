@@ -85,9 +85,9 @@ Institute][3]**
 
     * Managed call time for a top tier Congressional candidate, to raise over $2.9 million. 
     * Hired and supervied two full-time assistants.
-    * Researched & cultivated donors; built digital fundraising plan.
-    * Built and managed database with over 4,000 donors; exported and
-      matched data with compliance officer's reports.  
+    * Built digital fundraising plan by researching and communicating with donors. 
+    * Construction cloud-based database from scratch growing to over 4,000 donors; exported and
+      matched raw data with compliance officer's reports.  
 
   
   
