@@ -83,11 +83,11 @@ Institute][3]**
 :   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
     Elk Grove, CA
 
-	* Managed call time for a top tier Congressional candidate, to raise over $2.9 million. 
-	* Hired and supervied two full-time assistants.
-	* Researched & cultivated donors; built digital fundraising plan.
-	* Built and managed database with over 4,000 donors; exported and
-	  matched data with compliance officer's reports.  
+    * Managed call time for a top tier Congressional candidate, to raise over $2.9 million. 
+    * Hired and supervied two full-time assistants.
+    * Researched & cultivated donors; built digital fundraising plan.
+    * Built and managed database with over 4,000 donors; exported and
+      matched data with compliance officer's reports.  
 
   
   
@@ -105,23 +105,24 @@ OSI Layer Stack Experience
 **Layer 2**
 :   Managed, configured, and communicated with devices over Layer 1, including routers and managed switches.
     Assigned static DHCP reservations to network devices by MAC Address.
-
+	  
 **Layer 3**
-TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
+:   TCP/IP, IP subnetting, customer IPv4 allocation, ICMP for monitoring, and disabling/enabling ICMP for specific subnets for security.  
+  
 
 **Layer 4**
-Field experience with TCP, UDP, PPTP, packet capture, and more. Using
-NAT policies and firewall rules to capture VoIP and high-priority
-packets that cannot be isolated at Layer 3, modifying their DSCP tag
-header for higher QoS priority on WAN and/or LAN. Port forwarding, NAT
-traversal troubleshooting, 1:1 NAT, and filtering, shaping, or blocking
-based on port and/or protocol. 
+:   Field experience with TCP, UDP, PPTP, packet capture, and more. Using
+    NAT policies and firewall rules to capture VoIP and high-priority
+    packets that cannot be isolated at Layer 3, modifying their DSCP tag
+    header for higher QoS priority on WAN and/or LAN. Port forwarding, NAT
+    traversal troubleshooting, 1:1 NAT, and filtering, shaping, or blocking
+    based on port and/or protocol. 
 
 **Layer 5**
 
 
 
-*SIP**
+**SIP**
 :   Advanced configuration and knowledge of major VoIP codecs.
     Installed Comunigate Pro, Polycom, Flowroute and Cisco
 

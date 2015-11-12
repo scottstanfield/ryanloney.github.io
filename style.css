@@ -65,6 +65,7 @@ dt {
     float: left;
     clear: left;
     width: 17%;
+	padding-bottom: 1em;
     /*font-weight: bold;*/
 }
 dd {
