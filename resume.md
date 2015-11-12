@@ -68,7 +68,7 @@ Institute][3]**
     * Recruited by DCCC for targeted House district after an unexpected retirement. 
     * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%.
     * Hired, trained and supervised 2 full-time staff.
-    * Developed digitial fundraising plan, than $200,000 from email alone.
+    * Developed digitial fundraising plan, raising more than $200,000 from email alone.
     * Planned 35 fundraisers (keynotes by Vice President Biden, President Clinton, et al)
 
 2011
