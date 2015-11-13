@@ -1,7 +1,7 @@
 RYAN A. LONEY
 =============
 
-> Emeryville, CA   
+> Emeryville, CA  | <ryan@loney.io>  
 > *Network Engineer with OSI 7 Layer Expertise* 
 
 ----

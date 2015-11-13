@@ -29,7 +29,7 @@ $endif$
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
                  backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
+                 topspace=8mm, bottomspace=15mm,
                  header=0mm, footer=0mm]
 
 %\setuppagenumbering[location={footer,center}]
@@ -72,7 +72,7 @@ $endif$
 
 \setuptables[textwidth=max, HL=none]
 
-\setupthinrules[width=15em] % width of horizontal rules
+\setupthinrules[width=10em] % width of horizontal rules
 
 \setupdelimitedtext
   [blockquote]
@@ -94,14 +94,14 @@ $if(title)$
   \blank[2*big]
   {\tfd $title$}
 $if(author)$
-  \blank[3*medium]
-  {\tfa $for(author)$$author$$sep$\crlf $endfor$}
+%  \blank[3*medium]
+%  {\tfa $for(author)$$author$$sep$\crlf $endfor$}
 $endif$
 $if(date)$
-  \blank[2*medium]
-  {\tfa $date$}
+%  \blank[2*medium]
+%  {\tfa $date$}
 $endif$
-  \blank[3*medium]
+%  \blank[3*medium]
 \stopalignment
 $endif$
 $for(include-before)$
