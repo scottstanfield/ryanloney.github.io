@@ -1,8 +1,8 @@
 RYAN A. LONEY
 =============
-->Emeryville, CA<-
 
-->*Network Engineer with OSI 7 Layer Expertise*<-
+> Emeryville, CA   
+> *Network Engineer with OSI 7 Layer Expertise* 
 
 ----
 
