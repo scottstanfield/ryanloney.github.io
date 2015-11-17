@@ -42,14 +42,14 @@ January 2010 - Present
 :   **Director of IT at [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, CA
 
-    * Provide remote support for LAN, hosted VoIP, enterprise WiFi, software and hardware 
-    * Manage Google AdWords and supplier-hosted website that integrates with [kubota.com][7]
+    * Remote support for LAN, hosted VoIP, enterprise WiFi, VPN,  software and hardware
+    * Google AdWords and supplier-linked website management
+    * Migrated 1.5Mbps T1 to to 20/10Mbps dedicated bandwidth over fixed-wireless -- while saving $10-15,000 annually on telecommunications (January 2014)
     * Replaced Windows 2000 Server with AWS EC2 in 2013 to host legacy inventory
       management, CRM, and invoicing software system in the cloud
-    * Transitioned from T1 to to 20Mbps/10Mbps dedicated
-      bandwidth over fixed-wireless in 2014 with /29 public IPv4 subnet -- while saving $10-15k annually
-    * Migrated legacy email to Office365, installed corportate LastPass and DropBox for accessing cloud-based services and sharing crictical documents with clients 
-    * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system
+	  (January 2014)
+    * Upgraded to Office365 email, installed LastPass, DropBox, TSheets, & Zenefits (2014)  
+    * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system (January 2015)
     * Submmited grant applications to Bay Area Air Quality Management District [(BAAQMD)][9] to earn $1.2 million+ in funding for customers' tractors that do not meet EPA standards
 
 
