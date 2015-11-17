@@ -23,7 +23,7 @@ Corporate Experience
 --------------------
 
 
-Since 2014
+February 2014 - Present
 :   **Director of Advanced IP Services for [Valley Internet][2]**  
     Napa Valley, CA
 
@@ -35,7 +35,8 @@ Since 2014
     * Field experience with optical fiber, 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, 802.3af PoE, non-802.3af compliant PoE, photovoltaic solar systems, and powering network gear with DC power
 
 
-Since 2005
+January 2005 - February 2014 (Full Time)
+February 2014 - Present (Part Time, Remote Support)
 :   **Director of IT at [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, CA
 
