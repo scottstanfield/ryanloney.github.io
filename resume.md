@@ -9,7 +9,7 @@ RYAN A. LONEY
 Education and Training
 -----------------------
 
-Oct. 2015
+October 2015
 :   **Certified Network Associate for [MikroTik](http://routeros.com)**  
     Covers OSI Layers 1-7  [(view
     certificate)][8]
