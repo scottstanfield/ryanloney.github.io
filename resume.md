@@ -25,7 +25,7 @@ Corporate Experience
 
 
 Feb. 2014 - Present
-:   **Director of Advanced IP Services & Business Accounts for [Valley Internet][2]**  
+:   **Director of Advanced IP Services & Account Manager for [Valley Internet][2]**  
     Napa Valley, CA
 
     * Manage and establish client accounts with over 300 businesses -- including over 100 Napa Valley wineries -- to provide Internet, VoIP, network management and more
