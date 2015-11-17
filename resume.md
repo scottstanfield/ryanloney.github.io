@@ -6,25 +6,25 @@ RYAN A. LONEY
 
 ----
 
-Education
----------
-
-2006-2010
-:   **BS, Environmental Policy Analysis & Planning**  
-    *Emphasis in Energy Policy*  
-    University of California, Davis 
+Education and Training
+-----------------------
 
 Oct. 2015
 :   **Certified Network Associate for [MikroTik](http://routeros.com)**  
     Covers OSI Layers 1-7  [(view
     certificate)][8]
 
+2006-2010
+:   **BS, Environmental Policy Analysis & Planning**    
+    University of California, Davis 
+
+
 
 Corporate Experience
 --------------------
 
 
-Feb. 2014 - Present
+February 2014 - Present
 :   **Director of Advanced IP Services & Account Manager for [Valley Internet][2]**  
     Napa Valley, CA
 
@@ -33,69 +33,38 @@ Feb. 2014 - Present
     * Survey complex locations to establish RF broadband links or
       fiber-optic loopback -- primarily in areas limited to dial-up, T1, or high-latency satellite for Internet access
     * Field experience with 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, Power-over-Ethernet (PoE), single-mode optical fiber, multi-mode optical fiber,  photovoltaic solar systems, and managing outdoor equipment with low-voltage DC power
-    * Helped drive ARPU from nearly 3,000 subscribers to $100/month
-	  by selling VoIP, IP cameras, LTE failover, and local AT&T
-	  fiber loopback to our customers 
+    * Helped drive ARPU over $100/month by selling VoIP, IP cameras, LTE failover, and local AT&T
+	  fiber loopback to new and existing clients -- reaching nearly
+	  3,000 accounts
 
 
-Jan. 2005 - Jan. 2010 (Full-Time) | Jan. 2010 - Present (Remote)
+January 2010 - Present
 :   **Director of IT at [Green Valley Tractor, Inc.][1]**  
     Suisun Valley, CA
 
-    * Provide support for LAN, hosted VoIP, enterprise WiFi, software and hardware 
+    * Provide remote support for LAN, hosted VoIP, enterprise WiFi, software and hardware 
     * Manage Google AdWords and supplier-hosted website that integrates with [kubota.com][7]
     * Replaced Windows 2000 Server with AWS EC2 in 2013 to host legacy inventory
       management, CRM, and invoicing software system in the cloud
-    * Transitioned from dial-up to T1 in 2005, to to 20Mbps/10Mbps dedicated
-      bandwidth over fixed-wireless in 2014 with /29 public IPv4 subnet -- saving $10-15k per year
+    * Transitioned from T1 to to 20Mbps/10Mbps dedicated
+      bandwidth over fixed-wireless in 2014 with /29 public IPv4 subnet -- while saving $10-15k annually
     * Migrated legacy email to Office365, installed corportate LastPass and DropBox for accessing cloud-based services and sharing crictical documents with clients 
     * Installed 720p HD IP survallience cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system
-    * Prepared and submmited grant applications to the Bay Area Air Quality Management District [(BAAQMD)][9] to receive over $1.2 million dollars in direct funding for customers with tractors that do not meet EPA emmissions standards for NOx and PM
+    * Submmited grant applications to Bay Area Air Quality Management District [(BAAQMD)][9] to earn $1.2 million+ in funding for customers' tractors that do not meet EPA standards
 
 
-Feb. 2013 - Nov. 2013
-:   **Regional Director at [Gay & Lesbian Victory Fund and
-Institute][3]**  
-    Washington, D.C.
+January 2005 - 2010
+:   **IT Associate at [Green Valley Tractor, Inc.][1]**  
+    Suisun Valley, CA
 
-    * Secured corporate sponsors: AT&T, Bank of America, Southwest, and Wells Fargo
-    * Raised more than $850,000 from more than 2,500 donors in the
-      Southeast U.S.
-    * Organized and executed fundraising receptions in Atlanta,
-      Charlotte, Houston, and Nashville, with over 1,250 attendees
-    * Advised and trained political candidates on fundraising: 65% win rate
-      in 2013 cycle
+    * Sought bids from ISPs for T1 data and voice,
+	  migrated to TelePacific T1 from analog phone lines and dial-up Internet (November 2005)
+    * Installed 100Base-T network cards on employee workstations, ran
+	  new cat5, installed switch, and set up Active Directory on Windows 2000 Server to build office LAN  
+	* Provided support for local Windows Server, LAN, software, and hardware 
+    * Configured remote access to Windows Remote Desktop and VPN using
+	  static IPv4
 
-Jan. 2012 - Jan 2013
-:   **Finance Director at [Julia Brownley][4] for Congress (CA-26)**  
-    Camarillo, CA
-
-    * Recruited, dispatched to targeted U.S. House district after an unexpected retirement
-    * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%
-    * Hired, trained,  and supervised full-time deputy director and
-	  finance assitant 
-    * Developed digitial fundraising plan, raising more than $200,000 over email alone
-    * Planned 35 fundraisers (keynotes by Vice President Biden, President Clinton, et al)
-
-Feb. - Dec.  2011
-:   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
-    Washington, D.C.
-
-    * Assisted Political Director in managing $2.6 million budget for political operations
-    * Produced political briefing memos for Hoyer's trips to 30+ targeted districts in 2013
-    * Processed compliance documents for $2.3 million dollars raised for candidates & the Democratic Party, submitted to FEC compliance attorney for review
-
-Jan. 2010 - Jan. 2011
-:   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
-    Elk Grove, CA
-
-    * Managed call time for a top-tier Congressional candidate to raise over $2.9 million 
-    * Hired, trained, and supervied two full-time finance assistants
-    * Executed digital fundraising plan by researching and communicating with donors 
-    * Built cloud-based database in [ngpvan][10] from scratch growing to over 4,000 donors & exported raw data to match with compliance officer's reports to FEC  
-
-  
-  
 
 OSI Layer Stack Experience
 --------------------------
@@ -131,6 +100,41 @@ BOOTP, LDAP, RADIUS, rsync, RTP, TFTP, TLS and more.
 :   Installing, managing, and troublehooting VoIP, Comunigate Pro, Polycom & Cisco phones, Flowroute SIP trunking, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik
 routers, Cisco Meraki, Linux, MacOS & Windows servers, and more. 
 
+
+Political Experience
+---------------------
+
+Feb. - Nov. 2013
+:   **Regional Director at [Gay & Lesbian Victory Fund and
+Institute][3]**  
+    Washington, D.C.
+     * Secured corporate sponsors: AT&T, Bank of America, Southwest, and Wells Fargo
+     * Raised more than $850,000 from more than 2,500 donors in the
+      Southeast U.S.
+     * Advised and trained political candidates on fundraising: 65% win rate
+      in 2013 cycle
+
+Jan. 2012 - 2013
+:   **Finance Director at [Julia Brownley][4] for Congress (CA-26)**  
+    Camarillo, CA
+     * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%
+     * Developed digitial fundraising plan, raising more than $200,000 over email alone
+     * Planned 35 fundraisers (keynotes by Vice President Biden, President Clinton, et al)
+
+Feb. - Dec. 2011
+:   **Political Assistant to [House Democratic Whip Steny Hoyer][5]**  
+    Washington, D.C.
+     * Assisted Political Director in managing $2.6 million budget for political operations
+     * Produced political briefing memos for Hoyer's trips to 30+ targeted districts in 2013
+
+Jan. 2010 - 2011
+:   **Deputy Finance Director at [Ami Bera][6] for Congress (CA-03)**  
+    Elk Grove, CA
+     * Managed call time for a top-tier Congressional candidate to raise over $2.9 million 
+     * Hired, trained, and supervied two full-time finance assistants  
+
+  
+  
 ----
 
 > <ryan@loney.io> • +1 (707) 200-1140 \
