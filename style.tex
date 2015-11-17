@@ -29,14 +29,14 @@ $endif$
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
                  backspace=20mm, cutspace=0mm,
-                 topspace=8mm, bottomspace=15mm,
+                 topspace=7mm, bottomspace=13mm,
                  header=0mm, footer=0mm]
 
 %\setuppagenumbering[location={footer,center}]
 
 
 \definesimplefonttypeface[headerfont][Equity Caps A Bold]
-\definefont[HeaderFont][\classfont{headerfont}{Serif} at 24pt]
+\definefont[HeaderFont][\classfont{headerfont}{Serif} at 22pt]
 \setuphead[chapter][style=HeaderFont]
 
 \setmainfont[Equity Text A][expansion=quality,protrusion=quality]
@@ -44,7 +44,7 @@ $endif$
 
 \setupwhitespace[medium]
 
-\setupblackrules[width=31mm, color=rulecolor, height=2pt]
+\setupblackrules[width=29mm, color=rulecolor, height=2pt]
 
 % \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
@@ -62,7 +62,7 @@ $endif$
 \definedescription
   [description]
   [headstyle=bold, style=normal,
-   location=hanging, width=18mm, distance=14mm, margin=0cm]
+   location=hanging, width=20mm, distance=12mm, margin=0cm]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]
