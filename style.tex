@@ -19,7 +19,7 @@ $endif$
 \setupcolor[hex]
 \definecolor[titlegrey][h=C81F25]
 \definecolor[sectioncolor][h=888888]
-\definecolor[rulecolor][h=888888]
+\definecolor[rulecolor][h=DDDDDD]
 \definecolor[linkcolor][h=C81F25]
 
 % Enable hyperlinks
@@ -44,13 +44,15 @@ $endif$
 
 \setupwhitespace[medium]
 
-\setupblackrules[width=31mm, color=rulecolor, height=3pt]
+\setupblackrules[width=31mm, color=rulecolor, height=1pt]
+
+\setupthinrules[color=rulecolor, height=5pt]
 
 % \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+\setuphead [section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead [subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
-\setuphead[subsubsection][style=\bf]
+\setuphead [subsubsection][style=\bf]
 
 $if(number-sections)$
 $else$

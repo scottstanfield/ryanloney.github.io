@@ -27,12 +27,12 @@ February 2014 - Present
     Napa Valley, CA
 
     * Manage and establish client accounts with over 300 businesses
-	* Provide over 100 Napa Valley wineries with Internet, VoIP, network management
+    * Provide over 100 Napa Valley wineries with Internet, VoIP, network management
     * Design networks with enterprise WiFi, IP cameras, VoIP, gigabit PtP RF links 
     * Survey sites for RF links -- primarily in areas limited to dial-up, T1, or satellite for data
-    * Field experience with 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, Power-over-Ethernet (PoE), single-mode optical fiber, multi-mode optical fiber,  photovoltaic solar systems, and managing outdoor equipment with low-voltage DC power
+    * Field experience with 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, Power-over-Ethernet (PoE), single-mode optical fiber, multi-mode optical fiber, photovoltaic solar systems, and managing outdoor equipment with low-voltage DC power
     * Helped drive ARPU over $100/month by selling VoIP, IP cameras, LTE failover, and local AT&T
-      fiber loopback to new and existing clients -- reaching nearly 3,000 accounts
+      fiber loopback to new and existing clients--reaching nearly 3,000 accounts
     * [Auction Napa Valley](http://auctionnapavalley.org): single-day charity event raising $16M using mobile bidding. 1,000 guests, 33 WiFi APs, 100Mbps backhaul w/LTE failover, zero downtime
 
 
@@ -43,8 +43,8 @@ January 2010 - Present
     * Remote support for LAN, hosted VoIP, enterprise WiFi, VPN,  software and hardware
     * Google AdWords and supplier-linked website management
     * Migrated to 20Mbps dedicated bandwidth over fixed-wireless with
-	  hosted VoIP (2014)
-	* $10-15,000 saved annually on telecommunications from migration to 20Mbps
+      hosted VoIP (2014)
+    * $10-15,000 saved annually on telecommunications from migration to 20Mbps
     * AWS EC2 migration to run legacy inventory & invoicing software in the cloud (2014)
     * Migration to Office365 email; installed LastPass, DropBox, TSheets, & Zenefits (2014)  
     * Installed 12 IP surveillance cameras with remote access and motion alerts (2015)
@@ -70,15 +70,15 @@ Feb - Nov 2013
 
     * Secured corporate sponsors: AT&T, Bank of America, Southwest, and Wells Fargo
     * Raised more than $850,000 from more than 2,500 donors in the Southeast U.S.
-    * Advised and trained political candidates on fundraising: 65% win rate in 2013 cycle
+    * Advised and trained political candidates on fund-raising: 65% win rate in 2013 cycle
 
 Jan 2012 - 2013
 :   **Finance Director at [Julia Brownley][8] for Congress (CA-26)**  
     Camarillo, CA
 
     * Developed and executed plan to raise $2 million in 8 months, exceeded goal by 5%
-    * Developed digitial fundraising plan, raising more than $200,000 over email alone
-    * Planned 35 fundraisers (keynotes by Vice President Biden, President Clinton, et al)
+    * Developed digital fund-raising plan, raising more than $200,000 over email alone
+    * Planned 35 fund-raisers (keynotes by Vice President Biden, President Clinton, et al)
 
 Feb - Dec 2011
 :   **Political Assistant to [House Democratic Whip Steny Hoyer][9]**  
@@ -92,7 +92,7 @@ Jan 2010 - 2011
     Elk Grove, CA
 
     * Managed call time for a top-tier Congressional candidate to raise over $2.9 million 
-    * Hired, trained, and supervied two full-time finance assistants  
+    * Hired, trained, and supervised two full-time finance assistants  
 
   
 
@@ -126,9 +126,7 @@ OSI Layer Stack Experience
     BOOTP, LDAP, RADIUS, rsync, RTP, TFTP, TLS and more.  
 
 **Applications**
-:   Installing, managing, and troublehooting VoIP, Comunigate Pro, Polycom & Cisco phones, Flowroute SIP trunking, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik
-routers, Cisco Meraki, Linux, MacOS & Windows servers, and more. 
-
+:   VoIP, Comunigate Pro, Polycom & Cisco phones, Flowroute SIP trunking, hosted PBX & NVR, SSH, Ubiquiti UniFi & airMax, Mikrotik routers, Cisco Meraki, Linux, MacOS & Windows servers, and more. 
 
   
 ----
