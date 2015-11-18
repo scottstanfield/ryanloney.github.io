@@ -26,14 +26,14 @@ February 2014 - Present
 :   **Technical Account Manager for [Valley Internet][3]**  
     Napa Valley, CA
 
-    * Manage and establish client accounts with over 300 businesses -- including over 100 Napa Valley wineries -- to provide Internet, VoIP, network management and more
-    * Auction Napa Valley: Single-day event raising $15M using mobile bidding. 1000 guests, 33 access points, 100Mb backhaul w/LTE failover.
-    * Coordinate special projects, design advanced IP networks with enterprise WiFi, IP security cameras, VoIP, remote monitoring, gigabit PtP RF links, and more 
-    * Survey complex locations to establish RF broadband links or
-      fiber-optic loopback -- primarily in areas limited to dial-up, T1, or high-latency satellite for Internet access
+    * Manage and establish client accounts with over 300 businesses
+	* Provide over 100 Napa Valley wineries with Internet, VoIP, network management
+    * Design networks with enterprise WiFi, IP cameras, VoIP, gigabit PtP RF links 
+    * Survey sites for RF links -- primarily in areas limited to dial-up, T1, or satellite for data
     * Field experience with 900MHz-24GHz RF PtP and PtMP links, gigabit Ethernet, Power-over-Ethernet (PoE), single-mode optical fiber, multi-mode optical fiber,  photovoltaic solar systems, and managing outdoor equipment with low-voltage DC power
     * Helped drive ARPU over $100/month by selling VoIP, IP cameras, LTE failover, and local AT&T
       fiber loopback to new and existing clients -- reaching nearly 3,000 accounts
+    * [Auction Napa Valley](http://auctionnapavalley.org): single-day charity event raising $16M using mobile bidding. 1,000 guests, 33 WiFi APs, 100Mbps backhaul w/LTE failover, zero downtime
 
 
 January 2010 - Present
@@ -42,10 +42,12 @@ January 2010 - Present
 
     * Remote support for LAN, hosted VoIP, enterprise WiFi, VPN,  software and hardware
     * Google AdWords and supplier-linked website management
-    * Migrated 1.5Mbps T1 to to 20/10Mbps dedicated bandwidth over fixed-wireless -- while saving $10-15,000 annually on telecommunications (January 2014)
-    * AWS EC2 migration to run legacy inventory and invoicing software system in the cloud (2013)
-    * Migration to hosted Office365 email; installed LastPass, DropBox, TSheets, & Zenefits (2014)  
-    * Installed HD IP surveillance cameras with remote access, 1TB hosted NVR, and after-hours motion alerts system (January 2015)
+    * Migrated to 20Mbps dedicated bandwidth over fixed-wireless with
+	  hosted VoIP (2014)
+	* $10-15,000 saved annually on telecommunications from migration to 20Mbps
+    * AWS EC2 migration to run legacy inventory & invoicing software in the cloud (2014)
+    * Migration to Office365 email; installed LastPass, DropBox, TSheets, & Zenefits (2014)  
+    * Installed 12 IP surveillance cameras with remote access and motion alerts (2015)
     * Submitted grant applications to Bay Area Air Quality Management District [(BAAQMD)][5] to earn $1.2 million+ in funding for customers' tractors that do not meet EPA standards
 
 
@@ -53,12 +55,10 @@ January 2005 - 2010
 :   **Network Manager [Green Valley Tractor, Inc.][6]**  
     Suisun Valley, CA
 
-    * Sought bids from ISPs for T1 data and voice,
-      migrated to TelePacific T1 from analog phone lines and dial-up Internet (November 2005)
-    * Installed 100Base-T network cards on employee workstations, ran
-      new Cat5, installed switch, and set up Active Directory on Windows 2000 Server to build office LAN  
-    * Provided support for local Windows Server, LAN, software, and hardware 
-    * Configured remote access to Windows Remote Desktop and VPN using static IPv4
+    * Collected bids from ISPs for T1 data and voice,
+      migrated to TelePacific T1 from analog phone lines and dial-up Internet (2005)
+    * Built a 5 workstation local network using Windows 2000 Server  
+    * Configured Remote Desktop for remote access and monitoring
 
 
 Political Experience
